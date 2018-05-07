@@ -1,2 +1,2 @@
-# cs512
-CS512_ComputerVison
+# cs512 Computer Vision
+Assignments
